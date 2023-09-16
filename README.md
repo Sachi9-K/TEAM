@@ -10,6 +10,8 @@ TEAM members `incomplete`
 | Ashmita Barnwal | 27 | CORE|[Ashmita-15](https://github.com/Ashmita-15)||
 | Sneha | 27 | CORE |[Sana9909](https://github.com/Sana9909)||
 | Archit Anant | 27 | CORE, S/W DEV |[ArchitAnant](https://github.com/ArchitAnant)||
+| Deepta Surya Kolay| 26 | IOT |[Deeepta-123](https://github.com/Deeepta-123)||
+||||[](https://github.com/)||
 |Ankit Ojha|26||[ojhankit](https://github.com/AnkitOjha)||
 ||||[](https://github.com/)||
 ||||[](https://github.com/)||
