@@ -10,6 +10,7 @@ TEAM members `incomplete`
 | Ashmita Barnwal | 27 | CORE|[Ashmita-15](https://github.com/Ashmita-15)||
 | Sneha Lahiri | 26 | CORE |[Sana9909](https://github.com/Sana9909)||
 | Archit Anant | 27 | CORE, S/W DEV |[ArchitAnant](https://github.com/ArchitAnant)||
+| Aakash Deep | 27 | AIML, S/W DEV |[hackaakashh](https://github.com/hackaakashh)||
 | Deepta Surya Kolay| 26 | IOT |[Deeepta-123](https://github.com/Deeepta-123)||
 ||||[](https://github.com/)||
 |Ankit Ojha|26||[ojhankit](https://github.com/AnkitOjha)||
@@ -17,6 +18,6 @@ TEAM members `incomplete`
 ||||[](https://github.com/)||
 ||||[](https://github.com/)||
 ||||[](https://github.com/)||
-||||[](https://github.com/)||
+
 
 
