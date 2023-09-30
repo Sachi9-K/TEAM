@@ -15,6 +15,7 @@ TEAM members `incomplete`
 | Deepta Surya Kolay| 26 | IOT |[Deeepta-123](https://github.com/Deeepta-123)||
 ||||[](https://github.com/)||
 |Ankit Ojha|26||[ojhankit](https://github.com/AnkitOjha)||
+|Sachin Kumar| 26 | | [Sam-sachi9k](https://github.com/Sam-sachi9k) | |
 ||||[](https://github.com/)||
 ||||[](https://github.com/)||
 ||||[](https://github.com/)||
